@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link
-title,Title,
+name,Name,
 creator,Creator,
-date,Date Created,
-description,Description,
-composers,Composers,true
-location,Location
+date,Date of Birth,
+about,About,
+keywords,Keywords,true
+location,Place of Birth
 latitude,Latitude
 longitude,Longitude
 source,Source
