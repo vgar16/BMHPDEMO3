@@ -3,7 +3,7 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
-subject,Subjects,true
+composers,Composers,true
 location,Location
 latitude,Latitude
 longitude,Longitude
