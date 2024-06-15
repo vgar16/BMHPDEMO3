@@ -23,7 +23,7 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 ##########
 # COMPOSERS PAGE
 #
-composers-fields: subject;creator # set the field to be featured in the cloud (if left blank, none will be generated)
+composers-fields: composers;creator # set the field to be featured in the cloud (if left blank, none will be generated)
 composers-min: 1 # min size for composers cloud, too many terms = slow load time!
 composers-stopwords: # boxers;boxing;boxer # set of composers separated by ;, e.g. boxers;boxing
 
